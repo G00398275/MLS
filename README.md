@@ -39,7 +39,7 @@ Alternatively, the following badges can be clicked to run the notebook:
 
 NB Viewer for a static version of the notebook  
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/https://github.com/G00398275/MLS/tree/main/Project/Keras-Project.ipynb
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/G00398275/MLS/blob/main/Project/Keras-Project.ipynb)
 
 Binder for a dynamic copy which you can edit if required
 
