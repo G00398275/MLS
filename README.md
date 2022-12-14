@@ -43,34 +43,24 @@ NB Viewer for a static version of the notebook
 
 Binder for a dynamic copy which you can edit if required
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/MLS/HEAD?labpath=Keras-Project.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/G00398275/MLS/HEAD)
 ***
 
 ## Explore  
 ***
-To be completed once notebook is completed
-
-## Credits
-***
-
-I used a number of different packages in this jupyter notebook to help simultate data (numpy) and plot data (matplotlib, seaborn) etc. 
-Details of the packages used are included below:
-
-### Numpy
-
-Numpy, or numerical Python, is a library used in Python to create different types of arrays or multi-dimensional matrices, and includes a large collection of mathematical functions to operate on these arrays. In this case Numpy will be used to simulate data using the numpy.random package based on certain mathematical distributions.  
-
-### Pandas
- 
-Pandas is an open source library built for data analysis and manipulation in Python
-
-### Matplotlib
-  
-Matplotlib is a plotting library used in python to create visual plots from data. For this case Matplotlib will be used to create certain plots to help present large amounts of numerical data, generated using Numpy, in a clear and concise manner using histograms, charts etc.  
-
-
+Contained within this repository are a number of jupyter notebooks.<br>
+The main notebook is located in the "Project" folder. In this folder is the "Keras-project.ipynb" file.<br>
+This file is a jupyter notebook which discusses an example on the Keras website of a model built <br>
+to detect anomalies in datasets using a reconstruction convolutional autoencoder model. <br>
+A plot from the model is shown below which shows the model data and the outliers in the data <br>
+![](../images/anomalyPlot.jpg)<br>
+The plot indicates that the model has identified the data that is anomolous to the regular data <br>
+<br>
+This repository also contains a number of smaller notebooks which were created during the semester as part <br>
+of the assessment of the Machine Learning and Statistics.<br>
+These notebook are located in the "Exercises" folder. There are three in total (Statistics, Models and Parameters)<br>
 
 ## Contact 
 *** 
 
-I can be contacted by e-mail at 'G00398275@gmit.ie' for any queries or issues.
+I can be contacted by e-mail at 'G00398275@atu.ie' for any queries or issues.
